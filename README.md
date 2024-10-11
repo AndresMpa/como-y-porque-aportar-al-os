@@ -8,7 +8,6 @@ Este talk va sobre el OS y las comunidades FOSS, hablaremos sobre las diferentes
 
 ## Temas
 - ¿Que es el OS?
-- ¿Para que?
 - ¿Por qué?
 - Bueno ¿Y como?
 - Market
